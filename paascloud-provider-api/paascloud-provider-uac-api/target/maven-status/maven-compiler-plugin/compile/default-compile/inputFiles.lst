@@ -1,0 +1,17 @@
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\constant\UacApiConstant.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\Perm.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\enums\UacGroupTypeEnum.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\IdStatusDto.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\UacMqMessageFeignApi.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\exceptions\UacBizException.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\UserInfoDto.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\UacUserTokenFeignApi.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\hystrix\UacUserTokenFeignApiHystrix.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\ForgetCheckAnswerDto.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\ResetPasswordDto.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\LoginReqDto.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\vo\MenuVo.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\constant\UacConstant.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\hystrix\UacMqMessageApiHystrix.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\ForgetResetPasswordDto.java
+C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\UserRegisterDto.java
