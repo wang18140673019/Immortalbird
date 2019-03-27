@@ -7,10 +7,10 @@ spring:
   application:
     name: @pom.artifactId@
   rabbitmq:
-    host: paascloud-mq-rabbit
+    host: wangziming.xin
     port: 5672
-    username: guest
-    password: guest
+    username: tourist
+    password: tourist
   boot:
     admin:
       username: admin
