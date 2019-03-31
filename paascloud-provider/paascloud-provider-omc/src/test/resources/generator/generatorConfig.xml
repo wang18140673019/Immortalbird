@@ -14,10 +14,10 @@
             <property name="mappers" value="com.paascloud.core.mybatis.MyMapper"/>
         </plugin>
 
-        <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver"
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
                         connectionURL="jdbc:mysql://127.0.0.1:3306/paas_cloud"
                         userId="root"
-                        password="123456">
+                        password="1993wang">
         </jdbcConnection>
 
         <javaModelGenerator targetPackage="test.mybatis.springboot.model" targetProject="src/test/java"/>
