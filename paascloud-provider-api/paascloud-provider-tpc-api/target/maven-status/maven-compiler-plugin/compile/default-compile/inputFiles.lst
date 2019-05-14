@@ -1,7 +1,0 @@
-C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\model\enums\JobTaskStatusEnum.java
-C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\exceptions\TpcBizException.java
-C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\model\dto\PcMessageJobTask.java
-C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\model\dto\TpcMqMessageDto.java
-C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\service\hystrix\TpcMqMessageFeignApiHystrix.java
-C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\service\TpcMqMessageFeignApi.java
-C:\workproject\study\Immortalbird\paascloud-provider-api\paascloud-provider-tpc-api\src\main\java\com\paascloud\provider\model\dto\PcJobTask.java

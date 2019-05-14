@@ -81,7 +81,7 @@ public class AuthHeaderFilter extends ZuulFilter {
 		log.info("AuthHeaderFilter - 开始鉴权...");
 		RequestContext requestContext = RequestContext.getCurrentContext();
 		try {
-		//	doSomething(requestContext);
+			doSomething(requestContext);
 		} catch (Exception e) {
 			log.error("AuthHeaderFilter - [FAIL] EXCEPTION={}", e.getMessage(), e);
 			throw new BusinessException(ErrorCodeEnum.UAC10011041);

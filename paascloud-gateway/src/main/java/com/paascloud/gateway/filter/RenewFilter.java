@@ -79,7 +79,7 @@ public class RenewFilter extends ZuulFilter {
 		log.info("RenewFilter - token续租...");
 		RequestContext requestContext = RequestContext.getCurrentContext();
 		try {
-		//	doSomething(requestContext);
+			doSomething(requestContext);
 		} catch (Exception e) {
 			log.error("RenewFilter - token续租. [FAIL] EXCEPTION={}", e.getMessage(), e);
 			throw new BusinessException(ErrorCodeEnum.UAC10011041);
