@@ -8,7 +8,7 @@ spring:
           password:
           search-paths: /*
           default-label: ${spring.profiles.active}
-          basedir: /data/config/paascloud-config-repo
+          basedir: C:/Users/18771/Desktop/config/paascloud-config-repo
     inetutils:
       ignoredInterfaces:
         - docker0

@@ -43,6 +43,8 @@
             <groupId>com.liuzm.paascloud.common</groupId>
             <artifactId>paascloud-common-core</artifactId>
         </dependency>
+
+
         <dependency>
             <groupId>de.codecentric</groupId>
             <artifactId>spring-boot-admin-starter-client</artifactId>
